@@ -1,0 +1,6 @@
+Java is a platform independent language.
+It is a general purpose programming language.
+General purpose means it is used in both hardware and software industry.
+In hardware industry it is used for circuit board operating system design.
+In software industry it is used for development of an application and testing of an application.
+It is widely used in softwre industry rather than hardware industry.
